@@ -1,0 +1,25 @@
+.contact_form_container .right-submit {
+  background: #ffffff none repeat scroll 0 0;
+  border: 1px solid #087b99;
+  border-radius: 25px;
+  color: #087b99;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.refinance_form_container .left-submit {
+  background: #ffffff none repeat scroll 0 0;
+  border: 1px solid #087b99;
+  border-radius: 25px;
+  color: #087b99;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.refinance_form_container .left-submit:focus, .refinance_form_container .left-submit:hover, .refinance_form_container .left-submit:active {
+	outline: 0;
+}
+
+.refinance_form_container .right-submit:focus, .refinance_form_container .right-submit:hover, .refinance_form_container .right-submit:active {
+	outline: 0;
+}
